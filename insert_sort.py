@@ -5,6 +5,8 @@ def insertionSort():
         array[i], array[j] = array[j], array[i]
         print(array)
 
+
+
     array = [1, 14 ,8, 5,6 , 20 ,9,32]
     print(array)
     for i in range(1, len(array)):
